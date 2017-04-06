@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+    background-color: #f2f200;
+    margin: 0px;
+    padding: 0px;
+    font-size: 125%;
+    font-family: 'Lato', Arial, sans-serif;
+}
+
+
+.quotes {
+    
+    font-style: italic;
+    font-size: 200%;
+    color: #808080;
+    
+}
+
+#textBody {
+    width: 600px;
+    margin: 5em auto;
+    padding: 50px;
+    background-color: #ffffff;
+    border-radius: 1em;
+}
+
+.donate-btn {
+    
+    color: #fff;
+    background-color: #5cb85c;
+    border-color: #4cae4c;
+    display: inline-block;
+    margin-bottom: 0px;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    border: 1px solid transparent;
+    padding: 15px 24px;
+    font-size: 27px;
+    line-height: 1.3333333;
+    border-radius: 10px;
+    text-decoration: none;
+    right: 100.75px;
+    top: 50%;
+    position: fixed
+}
